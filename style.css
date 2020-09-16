@@ -1,0 +1,28 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: helvetica, arial, sans-serif;
+  margin: 2em;
+  background-color: #e2eafc;
+}
+
+h1 {
+  color: #ff87ab;
+  text-transform: uppercase;
+  font-family: "Times New Roman";
+  text-align: center;
+  text-shadow: 3px 3px #fadde1;
+}
+.Activities {
+  color: #ff5d8f;
+  text-decoration: underline;
+  text-shadow: 2px 2px #ffacc5;
+}
+p {
+  color: black;
+  font-family: "Times New Roman";
+}
+
+img {
+  width: 50%;
+}
